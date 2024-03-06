@@ -1,0 +1,7 @@
+streamlit
+seaborn
+pandas
+matplotlib
+pickleshare
+plotly
+scikit-learn==1.4.0
